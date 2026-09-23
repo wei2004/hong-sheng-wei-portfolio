@@ -1,0 +1,24 @@
+{
+  "name": "hong-sheng-wei-portfolio",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 8001 --strictPort",
+    "build": "node scripts/check-content.mjs && vite build && node scripts/render-preview.mjs",
+    "preview": "vite preview --host 127.0.0.1 --port 8001 --strictPort",
+    "check": "node scripts/check-content.mjs"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.17",
+    "vite": "^5.4.11"
+  }
+}

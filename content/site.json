@@ -1,0 +1,155 @@
+{
+  "name": "洪聖崴",
+  "updated_at": "2026-09-17",
+  "headline": "經營管理｜商業競賽｜研究與實務",
+  "hero_title": [
+    "從商業提案到研究實務，",
+    "探索管理問題的不同面向。"
+  ],
+  "intro": "我是洪聖崴，就讀國立臺北科技大學經營管理系。具約兩年三個月會計師事務所工讀與實習經驗，參與品牌行銷、保險創新與AI黑客松競賽，並協助企業漂綠研究計畫的資料處理。目前也持續修習科技法律學程。",
+  "portrait": null,
+  "contact": {
+    "email": null,
+    "phone": null,
+    "github": null,
+    "linkedin": null
+  },
+  "allow_indexing": false,
+  "education": {
+    "school": "國立臺北科技大學",
+    "department": "經營管理系",
+    "start_year": 2023,
+    "expected_graduation_year": 2027,
+    "law_program": "科技法律學程修習中",
+    "law_courses": [
+      "公司法",
+      "民法",
+      "商標法",
+      "智慧財產權訴訟",
+      "商事法",
+      "刑法",
+      "行政法",
+      "民事訴訟法"
+    ],
+    "year_label": "大四",
+    "law_name": "科技法律學程",
+    "law_status": "修習中"
+  },
+  "about": [
+    "我是洪聖崴，2023 年進入國立臺北科技大學經營管理系，目前大四，預計 2027 年畢業。",
+    "在競賽中，我接觸品牌行銷、數位保險與科技協作；在研究中，參與企業漂綠議題的資料協助，並與專題團隊探討商場價值與消費者反應。",
+    "約兩年三個月的會計師事務所工讀／實習，是我接觸帳務與稅務日常工作的另一個現場。我也持續修習科技法律學程，延伸對企業與法律的理解。"
+  ],
+  "focus": [
+    {
+      "title": "品牌與消費者",
+      "text": "品牌行銷提案、商場消費者行為專題"
+    },
+    {
+      "title": "商業可行性",
+      "text": "數位保險提案、成本與商業效益分析"
+    },
+    {
+      "title": "研究資料",
+      "text": "國科會研究參與、資料蒐集與整理比對"
+    },
+    {
+      "title": "跨域學習",
+      "text": "會計師事務所實務、科技法律學程修習中"
+    }
+  ],
+  "experience": [
+    {
+      "title": "會計師事務所工讀與實習",
+      "duration": "累積約2年3個月",
+      "description": "協助營業稅資料登打、薪資相關資料處理、傳票與憑證整理、沖帳及帳務資料核對。",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "title": "會計學小老師",
+      "period": "大一",
+      "description": "大一曾擔任會計學小老師。"
+    }
+  ],
+  "course_highlights": [
+    {
+      "name": "會計學第二階段",
+      "score": 99
+    },
+    {
+      "name": "成本會計",
+      "score": 97
+    },
+    {
+      "name": "人工智慧跨域經營管理之應用",
+      "score": 97
+    },
+    {
+      "name": "管理資訊系統",
+      "score": 96
+    },
+    {
+      "name": "資料庫系統與應用",
+      "score": 96
+    },
+    {
+      "name": "作業管理",
+      "score": 94
+    },
+    {
+      "name": "行銷管理",
+      "score": 91
+    },
+    {
+      "name": "商標法",
+      "score": 88
+    }
+  ],
+  "certifications": [
+    "會計資訊乙級",
+    "TIMS行銷專業能力認證"
+  ],
+  "language": {
+    "exam": "培力英語能力檢定",
+    "level": "CEFR B1",
+    "skills": [
+      "聽力",
+      "閱讀"
+    ]
+  },
+  "project_order": [
+    "brand",
+    "cardif",
+    "buildmode",
+    "consumer-research",
+    "esg-research"
+  ],
+  "highlights": [
+    {
+      "label": "品牌煉金術",
+      "value": "第一名",
+      "note": "團隊獎項 · 2026.05",
+      "url": "brand.html"
+    },
+    {
+      "label": "BUILDMODE 黑客松",
+      "value": "第二名",
+      "note": "團隊獎項 · 2026.09",
+      "url": "buildmode.html"
+    },
+    {
+      "label": "法國巴黎人壽校園黑客松",
+      "value": "銀獎",
+      "note": "團隊獎項 · 2026.01",
+      "url": "cardif.html"
+    },
+    {
+      "label": "會計師事務所",
+      "value": "約 2 年 3 個月",
+      "note": "工讀／實習經驗",
+      "url": "index.html#experience"
+    }
+  ],
+  "resume_summary": "具會計師事務所工讀／實習經驗，參與品牌行銷、數位保險與黑客松競賽，並接觸企業永續研究資料處理及消費者行為專題研究。"
+}

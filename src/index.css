@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: #070B14;
+  color: #EAF0FA;
+  font-family: "Microsoft JhengHei", "PingFang TC", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+::selection { background: rgba(247,168,27,0.3); }
+
+.pp-grad-text {
+  background: linear-gradient(100deg, #F7A81B, #25D0EE);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.pp-ring {
+  background:
+    radial-gradient(60% 60% at 70% 20%, rgba(37,208,238,0.10), transparent 60%),
+    radial-gradient(50% 50% at 20% 80%, rgba(247,168,27,0.10), transparent 60%);
+}
+@keyframes floaty { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-6px)} }
+.animate-floaty { animation: floaty 4s ease-in-out infinite; }
+
+/* thin scrollbar */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: #20304D; border-radius: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
+
+/* 洪聖崴版本：沿用上方學長原始色彩與效果，以下補閱讀及列印細節。 */
+html { scroll-padding-top: 100px; }
+body { overflow-wrap: break-word; }
+a, button, summary { touch-action: manipulation; }
+a:focus-visible, button:focus-visible, summary:focus-visible { outline: 2px solid #25D0EE; outline-offset: 4px; }
+main:focus { outline: none; }
+.skip-link { position: fixed; top: -100px; left: 16px; z-index: 100; padding: 12px 18px; color: #070B14; background: #F7A81B; border-radius: 8px; }
+.skip-link:focus { top: 12px; }
+.photo-dialog { width: min(1100px, 94vw); max-height: 94dvh; padding: 20px; border: 1px solid #20304D; border-radius: 16px; background: #0C1220; color: #EAF0FA; }
+.photo-dialog::backdrop { background: #000d; }
+body:has(dialog[open]) { overflow: hidden; }
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation: none !important; transition: none !important; }
+}
+@media print {
+  @page { size: A4; margin: 12mm; }
+  body { background: white !important; color: #111 !important; }
+  #root > div > header, #root > div > footer, .cv-noprint, .skip-link { display: none !important; }
+  .cv-root { max-width: none; padding: 0; font-size: 10pt; }
+  .cv-root > .grid { grid-template-columns: 1.6fr 1fr; gap: 18px; }
+  .cv-root section, .cv-root aside > div { break-inside: avoid; }
+  .cv-root .text-mint { color: #27634f !important; }
+  .cv-root .pp-grad-text { background: none; color: #111; }
+  .cv-root h1 { font-size: 24pt; }
+  .cv-root h2 { font-size: 14pt; }
+  .cv-root p, .cv-root li { font-size: 9pt; line-height: 1.5; }
+}

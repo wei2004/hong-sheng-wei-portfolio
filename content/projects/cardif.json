@@ -1,0 +1,153 @@
+{
+  "slug": "cardif",
+  "category": "competition",
+  "color": "cyan",
+  "label": "商業模式",
+  "date": "2026.01",
+  "award": "團隊銀獎",
+  "team": "保包巴士",
+  "title": "保包巴士｜Z 世代的數位保險提案",
+  "short": "保包巴士數位保險提案",
+  "event": "Cardif InsurHack 第三屆法國巴黎人壽校園黑客松商業競賽",
+  "description": "回應 Z 世代的保險購買障礙，探索以 LINE 為互動與服務載體的數位保險與訂閱相關方案。",
+  "tags": [
+    "商業可行性",
+    "成本結構",
+    "數位服務"
+  ],
+  "intro": "當保險服務面向 Z 世代，除了提出新的互動方式，也需要回答商業上是否可行。保包巴士團隊以 LINE 為主要互動與服務載體，提出數位保險與訂閱相關方案；我參與經濟模型、成本結構與商業效益分析。",
+  "stats": [
+    {
+      "value": "銀獎",
+      "label": "團隊競賽成果"
+    },
+    {
+      "value": "保包巴士",
+      "label": "參賽團隊"
+    },
+    {
+      "value": "2026.01",
+      "label": "決賽月份"
+    }
+  ],
+  "sections": [
+    {
+      "title": "要回應的問題",
+      "paragraphs": [
+        "團隊提案聚焦 Z 世代的保險購買障礙，思考如何透過數位互動與服務設計，提出不同於既有購買方式的方案。"
+      ]
+    },
+    {
+      "title": "團隊方案：以 LINE 承接互動與服務",
+      "paragraphs": [
+        "以 LINE 作為主要互動／服務載體，結合數位保險與訂閱相關構想，形成保包巴士的商業提案。"
+      ],
+      "note": "提案階段的商業構想；本頁不將方案描述為已上線的保險產品。",
+      "images": [
+        {
+          "path": "assets/cardif/business-model.png",
+          "alt": "保包巴士團隊商業模式提案圖",
+          "caption": "保包巴士團隊商業模式提案；屬競賽構想。"
+        }
+      ]
+    },
+    {
+      "title": "我的參與：分析商業可行性",
+      "cards": [
+        {
+          "title": "經濟模型",
+          "text": "參與提案的經濟模型討論與分析。"
+        },
+        {
+          "title": "成本結構",
+          "text": "參與成本結構分析，思考方案所需的營運投入。"
+        },
+        {
+          "title": "商業效益",
+          "text": "參與商業效益分析，從效益與可行性角度檢視提案。"
+        }
+      ],
+      "images": [
+        {
+          "path": "assets/cardif/economics.png",
+          "alt": "保包巴士團隊成本與效益提案圖",
+          "caption": "團隊提案中的成本與效益估算；畫面數字為規劃假設，不是已達成的營運績效。"
+        }
+      ]
+    },
+    {
+      "title": "團隊成果",
+      "paragraphs": [
+        "保包巴士團隊於 Cardif InsurHack 第三屆法國巴黎人壽校園黑客松商業競賽獲得銀獎。獎項為團隊成果；我的參與範圍為上述分析工作。"
+      ]
+    }
+  ],
+  "personal_contribution": [
+    "經濟模型",
+    "成本結構分析",
+    "商業效益分析"
+  ],
+  "cover": {
+    "path": "assets/cardif/business-model.png",
+    "alt": "保包巴士團隊商業模式提案圖",
+    "caption": "保包巴士團隊商業模式提案；屬競賽構想。"
+  },
+  "gallery": [
+    {
+      "path": "assets/cardif/team-silver-award.png",
+      "alt": "保包巴士團隊持銀獎與新臺幣四萬元獎牌合照",
+      "caption": "保包巴士團隊持銀獎與新臺幣四萬元獎牌合照；獎金為團隊獎金。",
+      "width": 1477,
+      "height": 1108
+    },
+    {
+      "path": "assets/cardif/personal-badge.png",
+      "alt": "法國巴黎人壽競賽現場與洪聖崴參賽識別證",
+      "caption": "法國巴黎人壽競賽現場與洪聖崴參賽識別證",
+      "width": 1108,
+      "height": 1477
+    },
+    {
+      "path": "assets/cardif/prize-and-badges.png",
+      "alt": "保包巴士團隊銀獎獎牌與參賽識別證",
+      "caption": "保包巴士團隊銀獎獎牌與參賽識別證；獎金為團隊獎金。",
+      "width": 1108,
+      "height": 1477
+    }
+  ],
+  "evidence": [
+    {
+      "path": "assets/cardif/silver-award-certificate.png",
+      "alt": "保包巴士團隊銀獎獎狀，列有洪聖崴姓名與2026年1月25日日期",
+      "caption": "保包巴士團隊銀獎獎狀，列有洪聖崴姓名與2026年1月25日日期",
+      "width": 1078,
+      "height": 1520
+    },
+    {
+      "path": "assets/cardif/preliminary-participation.pdf",
+      "alt": "保包巴士決賽入圍證明",
+      "caption": "保包巴士決賽入圍證明"
+    },
+    {
+      "path": "assets/cardif/semifinal-participation.pdf",
+      "alt": "保包巴士複賽入圍證明",
+      "caption": "保包巴士複賽入圍證明"
+    },
+    {
+      "path": "assets/cardif/final-participation.pdf",
+      "alt": "保包巴士參賽證明",
+      "caption": "保包巴士參賽證明"
+    }
+  ],
+  "links": [
+    {
+      "label": "活動官網",
+      "url": "https://contest.bhuntr.com/tw/2025_cardif_insurhack/details/"
+    },
+    {
+      "label": "共同作品資料來源 · Ken Chui",
+      "url": "https://ken-chui.vercel.app/projects/bnp-insurhack"
+    }
+  ],
+  "visible": true
+}

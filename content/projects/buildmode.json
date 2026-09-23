@@ -1,0 +1,202 @@
+{
+  "slug": "buildmode",
+  "category": "competition",
+  "color": "violet",
+  "label": "AI 與無障礙",
+  "date": "2026.09",
+  "award": "團隊第二名",
+  "team": "ChatKTV",
+  "title": "TapAble · 讓手機成為無障礙操作介面",
+  "short": "TapAble 無障礙互動原型",
+  "event": "FUTUREMODE 台灣未來祭｜BUILDMODE 2026 Hackathon",
+  "description": "ChatKTV 團隊以手機語音引導公共觸控機台操作，完成 TapAble 互動原型，獲得 BUILDMODE 黑客松第二名。",
+  "tags": [
+    "無障礙設計",
+    "互動原型",
+    "系統測試"
+  ],
+  "intro": "公共觸控機台少了實體按鍵，視障使用者要找到設備、確認機台與完成操作，都可能遇到阻礙。ChatKTV 團隊以 TapAble 探索手機語音引導的解法。我參與系統測試，並提供程式修改與功能調整建議。",
+  "stats": [
+    {
+      "value": "第二名",
+      "label": "團隊競賽成果"
+    },
+    {
+      "value": "ChatKTV",
+      "label": "參賽團隊"
+    },
+    {
+      "value": "09.04–09.06",
+      "label": "2026 年競賽期間"
+    }
+  ],
+  "sections": [
+    {
+      "title": "要解決的問題：找到、確認、操作",
+      "paragraphs": [
+        "公共服務全面觸控化之後，視障使用者面對的障礙不只是一個螢幕，而是從找到設備、確認機台到完成服務的整段流程。"
+      ],
+      "cards": [
+        {
+          "title": "找到機台",
+          "text": "靠近設備之前，需要可理解的方向與環境提示。"
+        },
+        {
+          "title": "確認設備",
+          "text": "辨識面前的機台與可用服務，才能開始操作。"
+        },
+        {
+          "title": "完成操作",
+          "text": "將觸控選項轉為可聽取、逐步確認的流程。"
+        }
+      ]
+    },
+    {
+      "title": "團隊方案：讓手機成為操作引導介面",
+      "paragraphs": [
+        "TapAble 團隊以校園文件列印機為 Demo 場景，串接環境提示、設備確認與口語需求理解，展示手機引導與操作回饋。"
+      ],
+      "cards": [
+        {
+          "title": "01 · 看見環境",
+          "text": "運用鏡頭辨識環境，提供方向與障礙提示。"
+        },
+        {
+          "title": "02 · 確認機台",
+          "text": "以 NFC 為概念入口，確認設備後進入語音引導；公開 Demo 採模擬方式。"
+        },
+        {
+          "title": "03 · 理解需求",
+          "text": "將使用者的口語需求對應至服務選項，透過語音逐步引導。"
+        }
+      ]
+    },
+    {
+      "title": "我的參與：系統測試與功能建議",
+      "paragraphs": [
+        "我參與作品的系統測試，並提供程式修改與功能調整建議，協助團隊檢視作品。"
+      ],
+      "cards": [
+        {
+          "title": "系統測試",
+          "text": "參與系統功能與操作流程的測試。"
+        },
+        {
+          "title": "修改與調整建議",
+          "text": "提供程式修改與功能調整建議，作為團隊改善作品的參考。"
+        }
+      ],
+      "note": "作品的方案、介面與競賽獎項為 ChatKTV 團隊成果；以上為我的個人參與範圍。"
+    },
+    {
+      "title": "Demo 畫面：從設備確認到流程完成",
+      "paragraphs": [
+        "從頁首可開啟團隊公開 Demo 或觀看評選影片。以下是互動原型的設備確認與流程完成畫面。"
+      ],
+      "images": [
+        {
+          "path": "assets/tapable/phone-connected.png",
+          "alt": "團隊 Demo：確認校園文件服務機。NFC 為模擬，尚未連接實體設備。",
+          "caption": "團隊 Demo：確認校園文件服務機。NFC 為模擬，尚未連接實體設備。"
+        },
+        {
+          "path": "assets/tapable/stage-completed.png",
+          "alt": "團隊 Demo：文件流程完成畫面；屬原型介面狀態，不代表網站已控制真實列印機。",
+          "caption": "團隊 Demo：文件流程完成畫面；屬原型介面狀態，不代表網站已控制真實列印機。"
+        }
+      ]
+    },
+    {
+      "title": "測試紀錄與原型限制",
+      "paragraphs": [
+        "依團隊公開作品說明，競賽版本包含校園機台場景的戴眼罩測試與視障者需求訪談。戴眼罩測試由明眼人進行；截至競賽提交，尚無視障者實際操作本作品。",
+        "公開 Demo 的 NFC 與機台互動採模擬方式。真正執行機台服務仍需與機台營運方合作串接，目前展示的是操作引導與互動原型。"
+      ],
+      "images": [
+        {
+          "path": "assets/tapable/field-vision-warning.jpg",
+          "alt": "團隊環境辨識測試畫面：顯示前方有人靠近的提示，屬輔助導引原型。",
+          "caption": "團隊環境辨識測試畫面：顯示前方有人靠近的提示，屬輔助導引原型。"
+        }
+      ]
+    },
+    {
+      "title": "團隊成果",
+      "paragraphs": [
+        "ChatKTV 於 2026 年 9 月 4 至 6 日參加 FUTUREMODE 台灣未來祭｜BUILDMODE 黑客松，獲得第二名。"
+      ]
+    }
+  ],
+  "personal_contribution": [
+    "系統測試",
+    "提供程式修改與功能調整建議"
+  ],
+  "cover": {
+    "path": "assets/tapable/deck-solution.jpg",
+    "alt": "TapAble 團隊簡報：環境辨識、機台確認與口語理解的三段操作構想。",
+    "caption": "TapAble 團隊簡報：環境辨識、機台確認與口語理解的三段操作構想。",
+    "width": 1440,
+    "height": 810
+  },
+  "gallery": [
+    {
+      "path": "assets/buildmode/award-group.png",
+      "alt": "ChatKTV團隊於BUILDMODE 2026黑客松獲得第二名的頒獎合照",
+      "caption": "ChatKTV團隊於BUILDMODE 2026黑客松獲得第二名的頒獎合照",
+      "width": 1280,
+      "height": 964
+    },
+    {
+      "path": "assets/buildmode/event-badge.png",
+      "alt": "SITCON Hacker Zone場域與FUTUREMODE Developer識別證",
+      "caption": "SITCON Hacker Zone場域與FUTUREMODE Developer識別證",
+      "width": 1108,
+      "height": 1477
+    }
+  ],
+  "evidence": [
+    {
+      "path": "assets/buildmode/finalists-second-place.png",
+      "alt": "決賽名單截圖，ChatKTV編號T161旁標示第二名",
+      "caption": "決賽名單截圖，ChatKTV編號T161旁標示第二名",
+      "width": 2047,
+      "height": 582
+    },
+    {
+      "path": "assets/buildmode/participation-and-award.pdf",
+      "alt": "ChatKTV參賽與第二名獲獎證明",
+      "caption": "ChatKTV參賽與第二名獲獎證明",
+      "page": 2,
+      "preview": "assets/buildmode/certificate-preview.png"
+    }
+  ],
+  "links": [
+    {
+      "label": "活動官網",
+      "url": "https://hackathon2026.sitcon.org/"
+    },
+    {
+      "label": "決賽資訊",
+      "url": "https://hackathon2026.sitcon.org/finalists.html"
+    },
+    {
+      "label": "共同作品資料來源 · Ken Chui",
+      "url": "https://ken-chui.vercel.app/projects/tapable-buildmode"
+    }
+  ],
+  "visible": true,
+  "actions": [
+    {
+      "label": "體驗團隊 Demo",
+      "url": "https://a96020183.github.io/tapable-demo/start/"
+    },
+    {
+      "label": "觀看評選影片",
+      "url": "https://youtu.be/AtMjXhrwr38"
+    },
+    {
+      "label": "團隊原始碼",
+      "url": "https://github.com/a96020183/tapable_sep"
+    }
+  ]
+}
